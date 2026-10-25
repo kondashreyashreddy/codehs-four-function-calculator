@@ -4,4 +4,4 @@ The Four Function Calculator is a simple calculator that uses the 4 basic logica
 ## Program Type
 Created in CodeHS Under Program Type "Python 3"
 ## Program Creation Date
-This program was created on October 13th of 2026 at 10:43am.
+This program was created on October 13th of 2026 at 10:43am in CodeHS
